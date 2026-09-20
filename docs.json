@@ -20,5 +20,8 @@
         ]
       }
     ]
+  },
+  "background": {
+    "decoration": "gradient"
   }
 }
