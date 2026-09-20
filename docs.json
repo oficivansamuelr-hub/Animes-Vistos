@@ -1,0 +1,54 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Mis animes",
+  "colors": {
+    "primary": "#3B82F6",
+    "light": "#60A5FA",
+    "dark": "#2563EB"
+  },
+  "appearance": {
+    "default": "dark"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Mis animes",
+        "pages": [
+          "index",
+          "the-apothecary-diaries",
+          "berserk-of-gluttony",
+          "can-a-boy-girl-friendship-survive",
+          "chained-soldier",
+          "chitose-is-in-the-ramune-bottle",
+          "classroom-for-heroes",
+          "the-dangers-in-my-heart",
+          "haibaras-teenage-new-game-plus",
+          "hands-off-sawaranaide-kotesashi-kun",
+          "hokkaido-gals-are-super-adorable",
+          "im-getting-married-to-a-girl-i-hate-in-my-class",
+          "the-iceblade-sorcerer-shall-rule-the-world",
+          "magic-maker",
+          "makeine-too-many-losing-heroines",
+          "medaka-kuroiwa-is-impervious-to-my-charms",
+          "mushoku-tensei",
+          "my-first-girlfriend-is-a-gal",
+          "yamada-kun-at-lv999",
+          "my-stepmoms-daughter-is-my-ex",
+          "the-quintessential-quintuplets",
+          "re-zero",
+          "record-of-ragnarok",
+          "a-silent-voice",
+          "sousou-no-frieren",
+          "tamons-b-side",
+          "tune-in-to-the-midnight-heart",
+          "villainess-level-99",
+          "wistoria-wand-and-sword",
+          "witch-watch",
+          "you-cant-be-in-a-rom-com-with-your-childhood-friends",
+          "your-lie-in-april"
+        ]
+      }
+    ]
+  }
+}
